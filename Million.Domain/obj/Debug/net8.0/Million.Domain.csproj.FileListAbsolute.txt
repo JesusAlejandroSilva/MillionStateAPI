@@ -1,0 +1,11 @@
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\bin\Debug\net8.0\Million.Domain.deps.json
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\bin\Debug\net8.0\Million.Domain.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\bin\Debug\net8.0\Million.Domain.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.AssemblyInfoInputs.cache
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.AssemblyInfo.cs
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\refint\Million.Domain.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\Million.Domain.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Domain\obj\Debug\net8.0\ref\Million.Domain.dll

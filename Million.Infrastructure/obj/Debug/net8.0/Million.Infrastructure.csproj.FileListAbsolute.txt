@@ -1,0 +1,17 @@
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Infrastructure.deps.json
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Infrastructure.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Infrastructure.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Application.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Domain.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Application.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\bin\Debug\net8.0\Million.Domain.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.AssemblyInfo.cs
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million..03ABB191.Up2Date
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\refint\Million.Infrastructure.dll
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\Million.Infrastructure.pdb
+C:\Users\jusd\source\repos\MillionStateAPI\Million.Infrastructure\obj\Debug\net8.0\ref\Million.Infrastructure.dll
